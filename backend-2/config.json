@@ -1,0 +1,5 @@
+{
+    "database" :"mongodb+srv://PROJECT:khalil@cluster0.ewlcr.mongodb.net/plantcare?retryWrites=true&w=majority",
+    "token_secret" : "token-secret !!"
+
+}
