@@ -32,5 +32,5 @@ swift 5
 
 ## Auteurs
 
-BELKAHLA Nabil et KSEMTINI mahdi
+Khalil aribi & ghaith ayari
 encadrés par : GUEDRIA khaled
