@@ -5,7 +5,7 @@ Une petite description du projet
 
 ## Démarrage
 
-git clone (https://github.com/nabil00-exe/CovidTrackerIOS.git)
+git clone (git@github.com:AnisDe/plantCare.git)
 pod install
 run on xcode
 ### Pré-requis
@@ -22,9 +22,9 @@ xcode version 15.5
 
 ## Contributing
 
-BELKAHLA Nabil - belkahla.nabil@esprit.tn
+khalil aribi - khalil.aribi@esprit.tn
 
-KSEMTINI Mahdi - mahdi.ksemtini@esprit.tn
+ghaith ayari - ghaith.ayari@esprit.tn
 ## Versions
 xcode version > 15.0
 swift 5
